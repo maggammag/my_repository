@@ -1,0 +1,3 @@
+Hai hello everyone.
+This is my new file in new repository.
+i am trying to do rebase here......
